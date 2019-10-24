@@ -4,3 +4,7 @@ body{
 h1{
   background: #ea5169;
 }
+.img {
+  display: grid;
+  grid-template: 200px 200px / repeat (3, 30%);
+}
