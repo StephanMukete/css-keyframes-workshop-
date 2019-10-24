@@ -11,7 +11,7 @@ header img {
 }
 .img {
   display: grid;
-  padding: 3%;
+  padding: 2%;
   grid-template: 200px 200px / repeat (3, 30%);
 }
 footer {
