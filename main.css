@@ -3,7 +3,10 @@ body{
   margin: 0 4%;
 }
 header{
-  background: #ea5169;
+    text-align: center;
+    background: #ea5169;
+  }
+
 }
 header img {
   margin-left: 10%;
