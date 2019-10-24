@@ -1,10 +1,19 @@
 body{
   font-family: sans-serif;
+  margin: 0 4%;
 }
-h1{
+header{
   background: #ea5169;
+}
+header img {
+  margin-left: 10%;
+  padding: 3%;
 }
 .img {
   display: grid;
+  padding: 2%;
   grid-template: 200px 200px / repeat (3, 30%);
+}
+footer {
+  background: #ea5169;
 }
